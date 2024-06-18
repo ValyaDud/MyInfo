@@ -1,6 +1,6 @@
 ># Всем привет!   
 ># Меня зовут *Валя Дударёк* и я - начинающий Java разработчик  
-![ ](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fjaxel.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fmcc-banner-5-2-1536x947.png&pos=31&rpt=simage&text=java)
+![ ](https://jaxel.com/wp-content/uploads/2022/07/mcc-banner-5-2-1536x947.png)
 >
 ##  Я обучаюсь на платформе *Нетологии*  
 ***
